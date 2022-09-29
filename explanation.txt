@@ -1,0 +1,2 @@
+Scaffold (andamio)
+Es un patron que se va a utilizar
